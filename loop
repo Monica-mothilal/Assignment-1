@@ -1,0 +1,10 @@
+# Using for loop
+print("Using for loop:")
+for i in range(11):
+   print(i)
+# Using while loop
+print("Using while loop:")
+j = 0
+while j <= 10:
+    print(j)
+    j += 1
